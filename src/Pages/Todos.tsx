@@ -10,9 +10,7 @@ import { FaPen } from "react-icons/fa6";
 import { FaXmark } from "react-icons/fa6";
 import {
   Card,
-  CardContent,
   CardDescription,
-  CardFooter,
   CardHeader,
   CardTitle,
 } from "../components/ui/card";
